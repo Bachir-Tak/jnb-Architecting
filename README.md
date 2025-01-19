@@ -3,6 +3,7 @@
 ## Introduction
 
 This project is part of the **Architecting IoT System** course. It demonstrates the connection between two Raspberry Pi devices exchanging data using **IR signals** or **WiFi**, and visualizing that data on a **digital twin** interface on the computer. The interface includes commands and alerts for interaction.
+The project was made by **Julien Soto**, **Nicolas Zanin** and **Bachir Benna**.
 
 ---
 
