@@ -1,4 +1,4 @@
-# README: Architecting IoT System Project
+# Architecting IoT System Project
 
 ## Introduction
 
